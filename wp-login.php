@@ -1148,7 +1148,7 @@ switch ( $action ) {
 		 */
 		if ( apply_filters( 'enable_login_autofocus', true ) && ! $error ) {
 			?>
-	wp_attempt_focus();
+	//wp_attempt_focus();
 		<?php } ?>
 	if(typeof wpOnload=='function')wpOnload();
 		<?php if ( $interim_login ) { ?>

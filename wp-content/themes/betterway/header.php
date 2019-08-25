@@ -17,7 +17,7 @@
             to{border-right-color: transparent;}
         }
 
-        .Page404 {
+        .page404 {
             height: 100vh;
             display: flex;
             align-items: end;
